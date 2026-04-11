@@ -1,0 +1,12 @@
+{
+  "export_job_id": "33f68cf5-896a-4b37-ab73-f39aaebf409b",
+  "id_short": 258823,
+  "published_at": "2026-04-11T19:49:41Z",
+  "repo_name": "tech-ready-restaurants-in-the-miami-fort-lauderdale-west-palm-beach-metro-area-fl-sample-258823",
+  "sample_asset_name": "beamstation_258823_restaurants-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/258823/beamstation_258823_restaurants-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv",
+  "sample_records": 21,
+  "sample_sha256": "c376388b40e6da487abc454c0bc7024ea1e4facabcd32bce7a5ac92e1c5cefdd",
+  "sample_size_bytes": 94879,
+  "total_records": 215
+}
