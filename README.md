@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Miami-Fort Lauderdale-West Palm Beach Metro Area, FL, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 38 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `258823` |
 | Location | Miami-Fort Lauderdale-West Palm Beach, FL |
 | Category | Restaurants |
-| Full dataset size | 34 records |
-| Free sample size | 3 records (8.82%) |
-| Last export | 2026-04-22T18:29:02.654781+00:00 |
+| Full dataset size | 381 records |
+| Free sample size | 38 records (9.97%) |
+| Last export | 2026-04-29T17:52:59.319278+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-miami-fort-lauderdale-west-palm-beach-metro-area-fl-sample-258823/releases/download/sample-latest/beamstation_258823_restaurants-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
